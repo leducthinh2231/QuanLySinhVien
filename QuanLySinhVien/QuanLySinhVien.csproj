@@ -299,6 +299,7 @@
     <Content Include="Views\SubjectsOfClasses\Details.cshtml" />
     <Content Include="Views\SubjectsOfClasses\Edit.cshtml" />
     <Content Include="Views\SubjectsOfClasses\Index.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
